@@ -1,0 +1,2 @@
+ReadMe for ProjectPier
+ProjectPier is a Free, Open-Source, PHP application for managing tasks, projects and teams through an intuitive web interface. It must be downloaded and installed on your own web server. ProjectPier will help your organization communicate, collaborate and get things done Its function is similar to commercial groupware/project management products, but allows the freedom and scalability of self-hosting.
